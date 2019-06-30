@@ -1,0 +1,128 @@
+#produits{
+    display:none;
+}
+
+.image1{
+    display:none;
+    position:absolute;
+    top:100px;
+    left: 60%;
+    width:13%;
+    margin-top:100px;
+}
+.image11{
+    display:none;
+}
+
+
+.image2{
+    display:none;
+    position:absolute;
+    top:100px;
+    left: 73%;
+    width:13%;
+    margin-top:100px;
+}
+
+.image3{
+    display:none;
+    position:absolute;
+    top:100px;
+    left: 34%;
+    width:13%;
+    margin-top:100px;
+}
+
+.image4{
+    display:none;
+    position:absolute;
+    top:100px;
+    left: 21%;
+    width:13%;
+    margin-top:100px;
+}
+.image5{
+    display:none;
+    position:absolute;
+    top:100px;
+    left: 8%;
+    width:13%;
+    margin-top:100px;
+}
+
+.image6{
+    display:none;
+    position:absolute;
+    top:100px;
+    left: 47%;
+    width:13%;
+    margin-top:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.calculatrice
+{
+    width:300px;
+    height:100px;
+    background-color:#eeeeee;
+    border:2px solid #CCCCCC;
+    margin:auto;
+    padding-left:5px;
+    padding-bottom:5px;
+    font-size:20px;
+}
+.calculatrice td
+{
+    height:16.66%;
+}
+.calc_td_resultat
+{
+    text-align:center;
+}
+.calc_resultat
+{
+    width:90%;
+    text-align:right;
+}
+.calc_td_calculs
+{
+    text-align:center;
+}
+.calc_calculs
+{
+    width:90%;
+    text-align:left;
+}
+.calc_td_btn
+{
+    width:25%;
+    height:100%;
+}
+.calc_btn
+{
+    width:90%;
+    height:90%;
+    font-size:20px;
+}
